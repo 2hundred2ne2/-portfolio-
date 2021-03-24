@@ -72,17 +72,15 @@
 
 
   ### - 마이페이지
-  + 프로필
-  ![정현-010](https://user-images.githubusercontent.com/71624723/110286120-b72a1380-8027-11eb-999f-e9d4a2e962f3.png)
+  
   + 게시글 작성
   ![image](https://user-images.githubusercontent.com/71998081/112374388-63a50e80-8d25-11eb-9219-a0253d92233d.png)
 
   + 게시글 리스트 
   ![image](https://user-images.githubusercontent.com/71998081/112374494-846d6400-8d25-11eb-9bf6-a1ed9e9b8398.png)
 
-  + 게시글 상세보기
-  ![정현-013](https://user-images.githubusercontent.com/71624723/110286144-c3ae6c00-8027-11eb-9b54-eb98a351a6c8.png)
-  + 지도
+  
+  + 게시글 지도
   ![image](https://user-images.githubusercontent.com/71998081/112374543-94854380-8d25-11eb-8eab-9076e48d9162.png)
 
   + 방명록 
