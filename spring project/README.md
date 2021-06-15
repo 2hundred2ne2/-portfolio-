@@ -1,5 +1,4 @@
 
-# BITACADEMY 
 
 ## 1.소개
 
